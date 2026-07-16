@@ -6066,9 +6066,9 @@
         },
         "Recipe_Alternate_RocketFuel_Nitro_C": {
             "slug": "recipe-alternate-rocketfuel-nitro-c",
-            "name": "Alternate: Nitro Rocket Fuel",
+            "name": "Nitro Rocket Fuel",
             "className": "Recipe_Alternate_RocketFuel_Nitro_C",
-            "alternate": true,
+            "alternate": false,
             "time": 2.4,
             "inHand": false,
             "forBuilding": false,
