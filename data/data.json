@@ -5792,9 +5792,9 @@
         },
         "Recipe_Alternate_EnrichedCoal_C": {
             "slug": "recipe-alternate-enrichedcoal-c",
-            "name": "Alternate: Compacted Coal",
+            "name": "Compacted Coal",
             "className": "Recipe_Alternate_EnrichedCoal_C",
-            "alternate": true,
+            "alternate": false,
             "time": 12,
             "inHand": false,
             "forBuilding": false,
